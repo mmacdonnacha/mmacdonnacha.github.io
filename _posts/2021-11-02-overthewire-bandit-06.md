@@ -3,7 +3,7 @@ title: Overthewire Bandit Level 5 -> 6
 date: 2021-11-02 22:24:00 +0000
 categories: [OverTheWire, Bandit]
 tags: [overthewire, bandit]
-description: Solution for Overthewire Bandit level 5 challenge
+description: Solution for Overthewire Bandit level 6 challenge
 ---
 
 Solution for the Overthewire.org [Bandit level 5 -> 6](https://overthewire.org/wargames/bandit/bandit6.html){:target="\_blank"}  
