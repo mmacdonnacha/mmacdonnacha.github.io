@@ -3,7 +3,7 @@ title: Overthewire Krypton Level 0 -> 1
 date: 2021-11-02 23:14:00 +0000
 categories: [OverTheWire, Krypton]
 tags: [overthewire, krypton]
-description: Solution for Overthewire Krypton level 1 challenge
+description: Solution for Overthewire Krypton level 0 challenge
 ---
 
 Solution for the Overthewire.org [Krypton level 0 -> 1](https://overthewire.org/wargames/krypton/krypton0.html){:target="\_blank"}
