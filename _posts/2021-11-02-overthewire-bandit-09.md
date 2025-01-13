@@ -121,12 +121,12 @@ bandit8@bandit:~$ sort data.txt | uniq
 Eventhough we have removed all doubled lines we still have not narrowed down the search to the one line that is entirely unique.  
 The man page of `uniq` shows an option for unique lines.
 
-<pre>
+```text
 Excerpt form the man page of uniq
 
        -u, --unique
               only print unique lines
-</pre>
+```
 
 Combining the `sort` and `uniq -u` we can get the single line of text in `data.txt` that is entirely unique.
 
