@@ -1,9 +1,9 @@
 ---
-title: Overthewire Bandit Level 2 -> 3
+title: OverTheWire Bandit Level 2 -> 3
 date: 2021-11-02 22:05:00 +0000
 categories: [OverTheWire, Bandit]
 tags: [overthewire, bandit]
-description: Solution for Overthewire Bandit level 3 challenge
+description: Solution for OverTheWire Bandit level 3 challenge
 ---
 
 Solution for the Overthewire.org [Bandit level 2 -> 3](https://overthewire.org/wargames/bandit/bandit3.html){:target="\_blank"}  

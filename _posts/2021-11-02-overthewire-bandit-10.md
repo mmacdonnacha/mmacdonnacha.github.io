@@ -1,9 +1,9 @@
 ---
-title: Overthewire Bandit Level 9 -> 10
+title: OverTheWire Bandit Level 9 -> 10
 date: 2021-11-02 22:59:00 +0000
 categories: [OverTheWire, Bandit]
 tags: [overthewire, bandit]
-description: Solution for Overthewire Bandit level 10 challenge
+description: Solution for OverTheWire Bandit level 10 challenge
 ---
 
 Solution for the Overthewire.org [Bandit level 9 -> 10](https://overthewire.org/wargames/bandit/bandit10.html){:target="\_blank"}
