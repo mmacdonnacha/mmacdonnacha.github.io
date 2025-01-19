@@ -82,7 +82,7 @@ bandit12@bandit:/tmp/bandit_123$ mv data.out data1.gz
 bandit12@bandit:/tmp/bandit_123$ gunzip data1.gz
 ```
 
-After uncompressing the `data1.gz` we get a new file `data1`. Again we run `file` to see what file type we are dealing with now. 
+After uncompressing the `data1.gz` we get a new file `data1`. Again we run `file` to see what file type we are dealing with now.  
 It is a compressed file again this time a [bzip2](https://linux.die.net/man/1/bzip2) file.  
 We rename the file giving it a [bzip2](https://linux.die.net/man/1/bzip2) extension and decompress.  
 We use the command `bzip2 -d data.bz2` to decompress the file.
@@ -113,7 +113,7 @@ bandit12@bandit:/tmp/bandit_123$ gunzip data3.gz
 ```
 
 Running file on the new file tells us it is a [POSIX tar archive](https://linux.die.net/man/1/tar)  
-POSIX tar archives use the *.tar* extension. 
+POSIX tar archives use the *.tar* extension.  
 Rename the file adding the *.tar* extension and then decompress.  
 We use the command `tar xvf data.tar` to decompress the file.  
 `x` for extract.  

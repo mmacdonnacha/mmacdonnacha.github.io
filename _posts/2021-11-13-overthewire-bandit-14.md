@@ -3,7 +3,7 @@ title: Overthewire Bandit Level 13 -> 14
 date: 2021-11-13 23:28:00 +0000
 categories: [OverTheWire, Bandit]
 tags: [overthewire, bandit]
-description: Solution for OverTheWire Bandit level 13 challenge
+description: Solution for OverTheWire Bandit level 14 challenge
 ---
 
 Solution for the Overthewire.org [Bandit level 13 -> 14](https://overthewire.org/wargames/bandit/bandit14.html){:target="\_blank"}
@@ -64,7 +64,7 @@ bandit13@bandit:~$
 We have been using ssh with a password to access these levels but now we need to see how to use ssh with a private key.  
 Time to look at the [man page](https://linux.die.net/man/1/ssh)
 
-Looking through the man page we can see an entry that mentions private key.    
+Looking through the man page we can see an entry that mentions private key.  
 The `-i` option for ssh will allow us to specify an identity (private ssh key) to use instead of a password.
 
 Here is the section of the `man ssh` page concerning `-i` option.
