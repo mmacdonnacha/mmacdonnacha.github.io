@@ -1,12 +1,10 @@
 ---
-title: Overthewire Bandit Level 28 -> 29
-date: '2022-02-02 17:30:00'
-author: Michael
-categories: [overthewire, overthewire-bandit]
+title: OverTheWire Bandit Level 28 -> 29
+date: 2022-02-02 17:30:00 +0000
+categories: [OverTheWire, Bandit]
 tags: [overthewire, bandit, git]
+description: Solution for OverTheWire Bandit level 29 challenge
 ---
-
-Solution for the Overthewire.org [Bandit level 28 -> 29](https://overthewire.org/wargames/bandit/bandit29.html){:target="\_blank"}
 
 ## Level Goal
 
@@ -19,9 +17,11 @@ Clone the repository and find the password for the next level.
 
 ## Walkthrough
 
+Solution for the Overthewire.org [Bandit level 28 -> 29](https://overthewire.org/wargames/bandit/bandit29.html){:target="\_blank"}
+
 This is another **git** challenge. We will be cloning git repositories and then search the repo for a password.
 
-Login to the server using the password obtained from the previous level [Bandit level 27 -> 28]({% post_url 2022-02-01-bandit27-28 %}). 
+Login to the server using the password obtained from the previous level [Bandit level 27 -> 28]({% post_url 2022-02-01-overthewire-bandit-28 %}).  
 
 username: `bandit28`  
 
