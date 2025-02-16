@@ -3,6 +3,7 @@ title: OverTheWire Bandit Level 26-> 27
 date: 2022-01-07 22:45:00 +0000
 categories: [OverTheWire, Bandit]
 tags: [overthewire, bandit]
+description: Solution for OverTheWire Bandit level 27 challenge
 ---
 
 ## Level Goal
