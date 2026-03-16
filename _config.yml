@@ -36,13 +36,11 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Michael McDonagh
   email: micheal.macdonnacha13@gmail.com # change to your email address
+  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/mmacdonnacha # change to your Twitter homepage
     - https://github.com/mmacdonnacha # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
